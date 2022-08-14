@@ -1,0 +1,5 @@
+.dark-mode .card{
+    background-color: black;
+    color: white;
+    border-color: rgb(73, 72, 72);
+  }
